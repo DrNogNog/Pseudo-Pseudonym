@@ -1,5 +1,5 @@
 #
-# finalproject.py  (Milestone)
+# HarryPotter.py  (Milestone)
 #
 # Cuckcoo's Calling book checker  
 #
